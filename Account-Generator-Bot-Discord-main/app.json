@@ -1,0 +1,12 @@
+{
+   "name": "Generator Bot",
+   "description": "Discord Gen Bot.",
+   "repository": "https://github.com/zekog/Account-Generator-Bot-Discord",
+   "logo": "https://discord.com/assets/2c21aeda16de354ba5334551a883b481.png",
+   "env": {
+      "settings": {
+         "description": "For Settings Edit Config.",
+         "required": false
+      }
+   }
+}
