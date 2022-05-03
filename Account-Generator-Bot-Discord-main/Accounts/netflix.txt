@@ -251,7 +251,6 @@ kshatfields@yahoo.com:pwh102958 | Plan = Basic | Country = US | videoQuality = S
 la_torre46@yahoo.com:taugammaphi19681 | Plan = Premium | Country = TC | videoQuality = UHD | maxStreams = 4 | Payment = CC
 beautracy2000@yahoo.com:pretty85 | Plan = Mobile | Country = NG | videoQuality = SD | maxStreams = 1 | Payment = CC
 skutte@mac.com:900Fireblade | Plan = Standard | Country = SE | videoQuality = HD | maxStreams = 2 | Payment = CC
-mikdar@comcast.net:Nocchie1 | Plan = Standard | Country = US | videoQuality = HD | maxStreams = 2 | Payment = CC
 hmmso@yahoo.com:zuhause13 | Plan = Standard | Country = AU | videoQuality = HD | maxStreams = 2 | Payment = PAYPAL
 ray.young10@aol.com:Tamera101 | Plan = Basic | Country = US | videoQuality = SD | maxStreams = 1 | Payment = CC
 hlbryson7@gmail.com:Killerqueen11 | Plan = Standard | Country = US | videoQuality = HD | maxStreams = 2 | Payment = CC
@@ -574,7 +573,6 @@ agnellaa@yahoo.com:Buldino72! | Plan = Premium | Country = IT | videoQuality = U
 emmaferry99@hotmail.co.uk:Harryalfie99 | Plan = Basic | Country = GB | videoQuality = SD | maxStreams = 1 | Payment = PAYPAL
 jquinn1225@yahoo.com:quinn4309 | Plan = Standard | Country = US | videoQuality = HD | maxStreams = 2 | Payment = CC
 calah.mcduffie@yahoo.com:Elisabeth1!1 | Plan = Basic | Country = US | videoQuality = SD | maxStreams = 1 | Payment = CC
-mwalsh31@icloud.com:Maille34! | Plan = Standard | Country = US | videoQuality = HD | maxStreams = 2 | Payment = CC
 alex-bul@hotmail.com:Alex82001! | Plan = Basic | Country = GB | videoQuality = SD | maxStreams = 1 | Payment = CC
 brestum@yahoo.com:football30 | Plan = Standard | Country = US | videoQuality = HD | maxStreams = 2 | Payment = CC
 iselaleonides@att.net:1Estefani | Plan = Basic | Country = US | videoQuality = SD | maxStreams = 1 | Payment = CC
@@ -947,7 +945,6 @@ ahdayjah@icloud.com:Ahdayjah13! | Plan = Basic | Country = US | videoQuality = S
 eriao854@gmail.com:Mareluhe6 | Plan = Premium | Country = MX | videoQuality = UHD | maxStreams = 4 | Payment = CC
 clara.pisano@hotmail.fr:Arbrerose11! | Plan = Essentiel | Country = FR | videoQuality = SD | maxStreams = 1 | Payment = CC
 garrettlauf@gmail.com:Bearcats1! | Plan = Standard | Country = US | videoQuality = HD | maxStreams = 2 | Payment = CC
-zhakryllan@hotmail.com:Lolpwned1 | Plan = Premium | Country = HR | videoQuality = UHD | maxStreams = 4 | Payment = CC
 malikmurt@hotmail.de:efekan2000 | Plan = \u00D6zel | Country = TR | videoQuality = UHD | maxStreams = 4 | Payment = CC
 manjuahuja.ahuja@gmail.com:judge123 | Plan = Basic | Country = IN | videoQuality = SD | maxStreams = 1 | Payment = UPI
 daylanrine@gmail.com:Eukij6i1 | Plan = Standard | Country = US | videoQuality = HD | maxStreams = 2 | Payment = CC
